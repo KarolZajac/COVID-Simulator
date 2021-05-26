@@ -1,4 +1,5 @@
-# COVID-Simulator
+# Virus-Simulator
+### Epidemy visualisation
 [Julia] Virus visualisation of SIRD epidemy model.
 
 Lot of parameters can be changed, especially probability of getting infected from neighbour, quarantine days, antibodies presence days etc.
