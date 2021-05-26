@@ -3,10 +3,11 @@
 
 Lot of parameters can be changed, especially probability of getting infected from neighbour, quarantine days, antibodies presence days etc.
 
-Example efect:
+Examples
 
-![](spread_virus.gif)
+![](spread_virus.gif) ![](example2.gif)
 
+AND DATA PLOTTING FOR FIRST ONE:
 Population state changes:
 
 ![](state_change.gif)
