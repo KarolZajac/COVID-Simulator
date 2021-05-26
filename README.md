@@ -8,8 +8,8 @@ Example efect:
 ![](spread_virus. gif)
 
 Population state changes:
-![](state_change. gif)
+![](state_change.gif)
 New cases day by day:
-![](new_cases_plot. gif)
+![](new_cases_plot.gif)
 Total cases day by day:
-![](total_cases_plot. gif)
+![](total_cases_plot.gif)
