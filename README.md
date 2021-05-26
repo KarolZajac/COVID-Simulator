@@ -5,11 +5,17 @@ Lot of parameters can be changed, especially probability of getting infected fro
 
 Example efect:
 
-![](spread_virus. gif)
+![](spread_virus.gif)
 
 Population state changes:
+
 ![](state_change.gif)
+
 New cases day by day:
+
 ![](new_cases_plot.gif)
+
 Total cases day by day:
+
 ![](total_cases_plot.gif)
+
