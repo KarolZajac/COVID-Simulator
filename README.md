@@ -1,2 +1,2 @@
 # COVID-Simulator
-Virus visualisation of SIRD epidemy model.
+[Julia] Virus visualisation of SIRD epidemy model.
